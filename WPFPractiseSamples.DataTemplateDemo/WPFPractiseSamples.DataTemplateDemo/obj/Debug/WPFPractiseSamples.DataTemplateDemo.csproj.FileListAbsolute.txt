@@ -1,0 +1,29 @@
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\WPFPractiseSamples.DataTemplateDemo.exe.config
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\WPFPractiseSamples.DataTemplateDemo.exe
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\WPFPractiseSamples.DataTemplateDemo.pdb
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.csprojResolveAssemblyReference.cache
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\MainWindow.g.cs
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\App.g.cs
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo_MarkupCompile.cache
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo_MarkupCompile.lref
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\MainWindow.baml
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.g.resources
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.Properties.Resources.resources
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.csproj.GenerateResource.Cache
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.exe
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.pdb
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Akshay\Onsite Training Prototypes\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\P10333366\Source\Repos\WPF-Tasks\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\bin\Debug\WPFPractiseSamples.DataTemplateDemo.exe.config
+C:\Users\P10333366\Source\Repos\WPF-Tasks\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.exe
+C:\Users\P10333366\Source\Repos\WPF-Tasks\WPFPractiseSamples.DataTemplateDemo\WPFPractiseSamples.DataTemplateDemo\obj\Debug\WPFPractiseSamples.DataTemplateDemo.pdb
